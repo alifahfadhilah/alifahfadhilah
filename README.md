@@ -8,10 +8,9 @@
   <body>
    <head>
      <title><p style=”text-align: center”>CURRICULUM VITAE</p></title>
-     <div id="header"></div>
+<h1><ol><b>Short Profile</b></ol></h1><div id="header"></div>
 <div class="left"></div>
 <div class="stuff">
-     <ruby><h1><ol><b>Short Profile</b></ol></h1></ruby>
       </head>
    </body> 
     <p>NAMA     : ALIFAH FADHILAH</p>
