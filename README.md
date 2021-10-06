@@ -3,12 +3,10 @@
   <head> 
     <meta charset="utf-8">
     <meta http-equiv="x-UA-Compatible" content ="I E =edge">
- <p style=”text-align: center”>Center me.
     <H1>Curriculum Vitae</H1>
- </p> 
   </head>
   <body>
-    <h1>ALIFAH FADHILAH</h1>
+    <p style=”text-align: center”>CURRICULUM VITAE</p> 
     <h1>Short Profile</h1>
     <p>NAMA     : ALIFAH FADHILAH</p>
     <P>ROMBEL   :TI02</P>
