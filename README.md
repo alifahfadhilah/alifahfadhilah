@@ -7,9 +7,9 @@
   </head>
   <body>
    <head>
-     <title>
+  <title>
     <p style=”text-align: center”>CURRICULUM VITAE</p> 
-     </title>
+  </title>
      <ruby><h1><ol><b>Short Profile</b></ol></h1></ruby>
       </head>
    </body> 
