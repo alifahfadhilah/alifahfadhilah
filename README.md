@@ -3,8 +3,7 @@
   <head> 
     <meta charset="utf-8">
     <meta http-equiv="x-UA-Compatible" content ="I E =edge">
-  <head>
-  <title>Curriculum Vitae</title>
+<title>Curriculum Vitae</title>
   </head>
   <body>
     <h1>ALIFAH FADHILAH</h1>
