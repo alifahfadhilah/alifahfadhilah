@@ -10,8 +10,7 @@
     <p style=”text-align: center”>CURRICULUM VITAE</p> 
      <h1><ol><b>Short Profile<i></ol></h1>
       </head>
-   </body>
-     
+   </body> 
     <p>NAMA     : ALIFAH FADHILAH</p>
     <P>ROMBEL   :TI02</P>
     <P>NIM      :0110221059</P>
