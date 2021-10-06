@@ -8,11 +8,10 @@
   <body>
    <head>
     <p style=”text-align: center”>CURRICULUM VITAE</p> 
-    <meta charset="utf-8">
-    <meta http-equiv="x-UA-Compatible" content ="I E =edge">
-    <ol><b><i>Short Profile</ol>
+     <h1><ol><b>Short Profile<i></ol></h1>
       </head>
    </body>
+     
     <p>NAMA     : ALIFAH FADHILAH</p>
     <P>ROMBEL   :TI02</P>
     <P>NIM      :0110221059</P>
