@@ -8,7 +8,7 @@
   <body>
    <head>
     <p style=”text-align: center”>CURRICULUM VITAE</p> 
-     <h1><ol><b>Short Profile<i></ol></h1>
+     <h1><ol><b>Short Profile</ol></h1>
       </head>
    </body> 
     <p>NAMA     : ALIFAH FADHILAH</p>
@@ -19,7 +19,7 @@
 <h2>EDUCATION</h2>
 <ul>
 <li>MAN 1 BEKASI</li>
-<li>STT-NF></li>
+<li>STT-NF</li>
 </ul>
 
   </body>
