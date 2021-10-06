@@ -7,11 +7,10 @@
   </head>
   <body>
    <head>
-     <title><p style=”text-align: center”>CURRICULUM VITAE</p></title>
-<h1><ol><b>Short Profile</b></ol></h1><div id="header"></div>
-<div class="left"></div>
-<div class="stuff">
-      </head>
+    <hr>
+  <br>
+  <p class="head">SHORT PROFILE</p>
+     </ul></br></hr>
    </body> 
     <p>NAMA     : ALIFAH FADHILAH</p>
     <P>ROMBEL   :TI02</P>
