@@ -3,7 +3,7 @@
   <head> 
     <meta charset="utf-8">
     <meta http-equiv="x-UA-Compatible" content ="I E =edge">
-    <H1>Curriculum Vitae</H1>
+    <H1>DIGITAL-CV</H1>
   </head>
   <body>
     <p style=”text-align: center”>CURRICULUM VITAE</p> 
