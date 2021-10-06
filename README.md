@@ -8,7 +8,7 @@
   <body>
    <head>
     <p style=”text-align: center”>CURRICULUM VITAE</p> 
-     <h1><ol><b>Short Profile</b></ol></h1>
+     <dt><h1><ol><b>Short Profile</b></ol></h1></dt>
       </head>
    </body> 
     <p>NAMA     : ALIFAH FADHILAH</p>
