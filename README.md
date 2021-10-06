@@ -6,8 +6,12 @@
     <H1>DIGITAL-CV</H1>
   </head>
   <body>
+   <head>
     <p style=”text-align: center”>CURRICULUM VITAE</p> 
-    <ol><b><i>Short Profile<div style=”color:green”>red</div></ol>
+    <meta charset="utf-8">
+    <meta http-equiv="x-UA-Compatible" content ="I E =edge">
+    <ol><b><i>Short Profile</ol>
+      </head>
    </body>
     <p>NAMA     : ALIFAH FADHILAH</p>
     <P>ROMBEL   :TI02</P>
